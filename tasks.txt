@@ -1,0 +1,15 @@
+What needs to be done:
+
+We'll be sellings goods, so we need a product model
+
+Product:
+  * Name
+  * Description
+  * Price
+  * Tags
+  * Picture
+
+Tag:
+  * Name
+
+
